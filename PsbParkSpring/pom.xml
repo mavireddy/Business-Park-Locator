@@ -10,7 +10,7 @@
   
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<springframework.version>4.3.7.RELEASE</springframework.version>
+		<springframework.version>5.2.20.RELEASE</springframework.version>
 		<hibernate.version>4.3.11.Final</hibernate.version>
 		<oracle.connector.version>11.2.0</oracle.connector.version>
 		<mysql.version>5.1.10</mysql.version>
